@@ -1,0 +1,31 @@
+date,region,category,product,customer,sales
+2026-01-05,Sudeste,Tecnologia,Notebook,Ana,3500
+2026-01-08,Sul,Moda,Tênis,Bruno,420
+2026-01-12,Nordeste,Beleza,Kit Skincare,Carla,280
+2026-01-18,Sudeste,Casa,Cafeteira,Diego,650
+2026-01-25,Centro-Oeste,Tecnologia,Monitor,Elisa,1200
+2026-02-03,Sudeste,Moda,Bolsa,Fernanda,390
+2026-02-09,Sul,Tecnologia,Teclado,Gabriel,310
+2026-02-14,Nordeste,Casa,Liquidificador,Helena,480
+2026-02-20,Sudeste,Beleza,Perfume,Igor,520
+2026-02-27,Norte,Tecnologia,Mouse,Juliana,180
+2026-03-04,Sudeste,Tecnologia,Notebook,Karen,4200
+2026-03-10,Sul,Casa,Air Fryer,Lucas,890
+2026-03-15,Nordeste,Moda,Tênis,Mariana,460
+2026-03-19,Sudeste,Beleza,Kit Skincare,Nicolas,320
+2026-03-28,Centro-Oeste,Tecnologia,Monitor,Olivia,1350
+2026-04-02,Sudeste,Casa,Cafeteira,Pedro,720
+2026-04-07,Sul,Tecnologia,Notebook,Rafaela,3900
+2026-04-13,Nordeste,Beleza,Perfume,Sofia,590
+2026-04-20,Norte,Moda,Bolsa,Thiago,430
+2026-04-26,Sudeste,Tecnologia,Teclado,Vanessa,340
+2026-05-03,Sudeste,Tecnologia,Monitor,William,1400
+2026-05-09,Sul,Casa,Air Fryer,Yasmin,950
+2026-05-16,Nordeste,Moda,Tênis,Zoe,510
+2026-05-22,Sudeste,Beleza,Kit Skincare,Amanda,350
+2026-05-29,Centro-Oeste,Tecnologia,Mouse,Bernardo,210
+2026-06-04,Sudeste,Tecnologia,Notebook,Camila,4500
+2026-06-11,Sul,Casa,Liquidificador,Daniel,530
+2026-06-18,Nordeste,Beleza,Perfume,Eduarda,610
+2026-06-23,Norte,Moda,Bolsa,Felipe,470
+2026-06-28,Sudeste,Tecnologia,Teclado,Giovana,360
